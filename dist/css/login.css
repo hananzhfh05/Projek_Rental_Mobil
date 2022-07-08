@@ -1,0 +1,16 @@
+body{
+    background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+}
+.sign-up-container{
+background-image: linear-gradient(to right, #ff0030 , #790975);
+}
+.form-label{
+color:white !important;
+}
+#login-btn{
+color:white;
+font-weight:bold;
+background: #343a40;
+}
